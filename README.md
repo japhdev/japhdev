@@ -48,9 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=japhdev&theme=material-palenight&layout=compact&hide=Jupyter" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=japhdev&theme=material-palenight&hide_border=true&ring=C084FC&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak"/>
-</p>
+
 
 ---
 

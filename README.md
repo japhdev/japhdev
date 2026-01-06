@@ -38,17 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=japhdev&theme=material-palenight&count_private=true&hide=contribs" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=japhdev&theme=material-palenight&layout=compact&hide=Jupyter" height="160"/>
-</p>
-
-
 
 ---
 

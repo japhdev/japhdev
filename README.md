@@ -19,12 +19,11 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Coding gif"/>
 
-- 🎓 Software Development Engineer with a strong foundation in web and mobile development.  
-- 🌐 I build clean, functional, and user-focused applications.  
-- 🐍 Currently working with Python, SQL, HTML, CSS, JavaScript, and modern frameworks.  
-- 🎨 Passionate about UI design and intuitive user experiences.  
-- 💡 Always learning, committed, and focused on continuous improvement.  
-- 💪 Responsible, patient, and motivated to grow professionally.
+-  Software Development Engineer with a strong foundation in web and mobile development.  
+-  I build clean, functional, and user-focused applications.  
+-  Currently working with Python, SQL, HTML, CSS, JavaScript, and modern frameworks.    
+-  Always learning, committed, and focused on continuous improvement.  
+-  Responsible, patient, and motivated to grow professionally.
 
 ---
 
